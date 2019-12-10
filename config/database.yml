@@ -27,4 +27,4 @@ test:
 
 production:
   <<: *default
-  database: db/production.scaffold_aws
+  database: capistrano_productionscaffold_aws
